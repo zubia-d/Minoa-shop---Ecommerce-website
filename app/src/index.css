@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&family=DynaPuff&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Knewave&family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&family=Rubik+Spray+Paint&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss"; 
+
+
+@keyframes fade {
+  from { opacity: 0.4; }
+  to { opacity: 1; }
+}
+
+.animate-fade {
+  animation: fade 1.5s ease-in-out;
+}
+
+
+.logo {
+    font-family: 'Delius Unicase', cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'DynaPuff', cursive;
+
+}
+h2, h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p, li, span, a{
+    font-family: 'Josefin Sans', sans-serif;
+}

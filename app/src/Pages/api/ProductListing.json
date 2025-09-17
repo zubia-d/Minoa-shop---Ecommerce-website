@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Ring",
+      "description": "Elegant diamond ring crafted in 18K gold.",
+      "price": 250,
+      "image": "/jewel.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gold Necklace",
+      "description": "Classic gold necklace with intricate design.",
+      "price": 480,
+      "image": "/jewel2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Silver Earrings",
+      "description": "Minimalist sterling silver earrings for daily wear.",
+      "price": 120,
+      "image": "/jewel.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Diamond Ring",
+      "description": "Elegant diamond ring crafted in 18K gold.",
+      "price": 250,
+      "image": "/jewel.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gold Necklace",
+      "description": "Classic gold necklace with intricate design.",
+      "price": 480,
+      "image": "/jewel2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Silver Earrings",
+      "description": "Minimalist sterling silver earrings for daily wear.",
+      "price": 120,
+      "image": "/jewel.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Diamond Ring",
+      "description": "Elegant diamond ring crafted in 18K gold.",
+      "price": 250,
+      "image": "/jewel.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gold Necklace",
+      "description": "Classic gold necklace with intricate design.",
+      "price": 480,
+      "image": "/jewel2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Diamond Ring",
+      "description": "Elegant diamond ring crafted in 18K gold.",
+      "price": 250,
+      "image": "/jewel.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gold Necklace",
+      "description": "Classic gold necklace with intricate design.",
+      "price": 480,
+      "image": "/jewel2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Silver Earrings",
+      "description": "Minimalist sterling silver earrings for daily wear.",
+      "price": 120,
+      "image": "/jewel.jpg"
+    }
+  ]
+}
